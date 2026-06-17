@@ -1,14 +1,14 @@
 h1{
-    color:blueviolet
+    color:blueviolet;
     font-size: 50px;
     text-align: center;
-    background-color:
+    background-color: aquamarine;
 }
 h2{
-    color:black
+    color:black;
     text-align: center;
 
 }
 body{
-    background-color:blue
+    background-color:rgb(49, 194, 20)
 }
