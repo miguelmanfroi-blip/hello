@@ -1,5 +1,11 @@
 header{
     background-color:bisque;
+    padding:20px 0;
+}
+nav{
+    position: absolute;
+    top: 110px;
+    right: 0;
 }
 nav li{
     display: incline;
@@ -11,4 +17,9 @@ nav a{
     font-weight; bold;
     font: size 22px;
     text-transform: none;
+}
+.caixa{
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
 }
