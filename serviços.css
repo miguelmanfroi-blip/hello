@@ -14,7 +14,7 @@ nav li{
 nav a{
     text-transform:uppercase ;
     color:black
-    font-weight; bold;
+    font-weight; bold:
     font: size 22px;
     text-transform: none;
 }
@@ -22,4 +22,18 @@ nav a{
     position: relative;
     width: 940px;
     margin: 0 auto;
+}
+.serviços{
+    width: 940px; 
+    margin: 0 auto;
+    padding: 50px 0;
+}
+.serviços li{
+    display: inline-block;
+    text-align: center;
+    widht: 30;
+    vertical-align: top;
+    margin: 0 1.5%;
+    padding: 30px 0px;
+    box-sizing: border-box;
 }
