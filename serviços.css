@@ -1,39 +1,72 @@
 header{
-    background-color:bisque;
-    padding:20px 0;
+background-color: rgb(36, 35, 35);
+color: rgb(0, 0, 0);
+padding: 30px 0px;
 }
+
 nav{
     position: absolute;
-    top: 110px;
-    right: 0;
+    top: 150px;
+    right: 0px;
+    font-size: 30px;
 }
-nav li{
-    display: incline;
-    margin 0 0 0 15px;
-} 
+
+nav li{ 
+display: inline; 
+margin: 0 0 0 15px;
+}/*estara  em formado de linha*/
+
+
 nav a{
-    text-transform:uppercase ;
-    color:black
-    font-weight; bold:
-    font: size 22px;
-    text-transform: none;
+text-decoration: none;
 }
+
 .caixa{
     position: relative;
-    width: 940px;
+    width: 1480px;
     margin: 0 auto;
+    height: 200px;
 }
-.serviços{
-    width: 940px; 
+h1{
+    font-size:50px;
+}
+h1 img{
+    width:450px;
+    position: absolute;
+    top: -10px;
+    left: -180px;
+}
+h2 {
+    font-size:25px;
+}
+.servicos {
+    width: 1480px;
     margin: 0 auto;
     padding: 50px 0;
 }
-.serviços li{
+.servicos li {
     display: inline-block;
     text-align: center;
-    widht: 30;
+    width: 33%;
     vertical-align: top;
-    margin: 0 1.5%;
-    padding: 30px 0px;
+    margin: 0;
+    padding: 30px 20px;
     box-sizing: border-box;
+    border: 2px solid goldenrod;
+    border-radius: 15px;
+}
+.servicos img {
+    width: 400px;
+}
+.servicos h2 {
+    font-size: 30px;
+    font-weight: bold;
+}
+.descricao {
+    font-size:20px;
+}
+.preco {
+    font-size: 22px;
+    font-weight: bold;
+    margin-top: 10px;
 }
