@@ -1,0 +1,24 @@
+h1{
+    color:rgb(0, 0, 0);
+background-color:rgba(245, 168,  222, 0.897);    
+
+}
+body{
+background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0ONslpQSwkvpwQjmO96bVP5jPp794LMeOCA&s) ;
+
+
+}
+
+
+
+img{
+    width: 478px;
+}
+
+h2{
+    text-align: center;
+    border-style: dotted;
+    border-radius: 50px;
+    margin: auto;
+    
+}
